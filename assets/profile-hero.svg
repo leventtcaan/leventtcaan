@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-labelledby="title desc">
+  <title id="title">Levent Can Ceylan — Backend and Agentic Systems</title>
+  <desc id="desc">Editorial engineering profile banner with an animated system map.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#101113" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#101113" flood-opacity=".18"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="358" rx="18" fill="#f2f0e9" stroke="#101113" stroke-opacity=".22"/>
+  <rect x="1" y="1" width="998" height="358" rx="18" fill="url(#grid)"/>
+  <path d="M0 74H1000" stroke="#101113" stroke-opacity=".18"/>
+  <rect x="0" y="0" width="11" height="360" rx="5" fill="#225cff"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" fill="#101113">
+    <text x="36" y="44" font-size="13" font-weight="700" letter-spacing="2">LC / ENGINEERING PROFILE</text>
+    <circle cx="333" cy="39" r="5" fill="#ff5c35">
+      <animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="346" y="44" font-size="11" letter-spacing="1.4">SYSTEM STATUS: BUILDING</text>
+    <text x="955" y="44" font-size="11" letter-spacing="1.4" text-anchor="end">ANTALYA / TR</text>
+  </g>
+
+  <g fill="#101113" font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="134" font-size="17" font-weight="700" letter-spacing="3">LEVENT CAN CEYLAN</text>
+    <text x="45" y="200" font-size="52" font-weight="800" letter-spacing="-2.5">ACT. RECOVER.</text>
+    <text x="45" y="253" font-size="52" font-weight="800" letter-spacing="-2.5" fill="#225cff">EXPLAIN.</text>
+  </g>
+  <text x="48" y="300" fill="#4c4e52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5">BACKEND · DISTRIBUTED SYSTEMS · RELIABLE AGENTS</text>
+  <text x="48" y="326" fill="#101113" font-family="Arial, Helvetica, sans-serif" font-size="13">Make the system correct before making it clever.</text>
+
+  <g transform="translate(620 102)" filter="url(#shadow)">
+    <rect width="330" height="205" rx="14" fill="#225cff"/>
+    <text x="22" y="29" fill="#fffef8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.5">SYSTEM MAP / 01</text>
+
+    <g fill="none" stroke="#fffef8" stroke-opacity=".48" stroke-width="1.4">
+      <path id="pathA" d="M84 92C126 53 163 55 203 86"/>
+      <path id="pathB" d="M203 86C250 112 246 147 204 164"/>
+      <path id="pathC" d="M204 164C155 190 105 165 84 125"/>
+    </g>
+    <g fill="#c8ff3d">
+      <circle r="4"><animateMotion dur="3.4s" repeatCount="indefinite"><mpath href="#pathA"/></animateMotion></circle>
+      <circle r="4"><animateMotion dur="3.8s" begin="-.9s" repeatCount="indefinite"><mpath href="#pathB"/></animateMotion></circle>
+      <circle r="4"><animateMotion dur="4.2s" begin="-1.7s" repeatCount="indefinite"><mpath href="#pathC"/></animateMotion></circle>
+    </g>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">
+      <g transform="translate(77 107)">
+        <circle r="38" fill="#101113"/>
+        <text y="-2" fill="#fffef8" font-size="11" font-weight="700">JAVA</text>
+        <text y="14" fill="#fffef8" fill-opacity=".65" font-size="8">CORE</text>
+      </g>
+      <g transform="translate(224 93)">
+        <circle r="43" fill="#fffef8"/>
+        <text y="-2" fill="#101113" font-size="11" font-weight="700">AGENTS</text>
+        <text y="14" fill="#101113" fill-opacity=".58" font-size="8">RELIABLE</text>
+      </g>
+      <g transform="translate(208 165)">
+        <circle r="28" fill="#ff5c35"/>
+        <text y="4" fill="#101113" font-size="9" font-weight="700">UI</text>
+      </g>
+      <g transform="translate(101 171)">
+        <rect x="-42" y="-17" width="84" height="34" rx="17" fill="#c8ff3d"/>
+        <text y="4" fill="#101113" font-size="9" font-weight="700">MEASURE</text>
+      </g>
+    </g>
+  </g>
+</svg>

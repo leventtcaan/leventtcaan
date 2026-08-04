@@ -1,0 +1,37 @@
+name: Refresh contribution trail
+
+on:
+  schedule:
+    - cron: "37 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate contribution trail
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/contribution-snake.svg?color_snake=%23225cff&color_dots=%23e8e5dc,%23bfd0ff,%237da0ff,%23225cff,%231735a6
+            assets/contribution-snake-dark.svg?palette=github-dark&color_snake=%23c8ff3d
+
+      - name: Commit refreshed trail
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-snake.svg assets/contribution-snake-dark.svg
+          if git diff --cached --quiet; then
+            echo "Contribution trail is already current."
+          else
+            git commit -m "chore: refresh contribution trail"
+            git push
+          fi

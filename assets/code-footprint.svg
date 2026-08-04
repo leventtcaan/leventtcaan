@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="450" viewBox="0 0 1000 450" role="img" aria-labelledby="title desc">
+  <title id="title">Levent Can Ceylan live engineering signal</title>
+  <desc id="desc">Automatically generated contribution, collaboration, repository and public language metrics.</desc>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sans { font-family: Arial, Helvetica, sans-serif; }
+    .label { font: 10px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 1.2px; fill: #4c4e52; }
+    .value { font: 700 28px Arial, Helvetica, sans-serif; fill: #101113; }
+    .lang { font: 700 12px Arial, Helvetica, sans-serif; fill: #101113; }
+    .percent { font: 11px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #4c4e52; }
+  </style>
+  <rect x="1" y="1" width="998" height="448" rx="16" fill="#f2f0e9" stroke="#101113" stroke-opacity=".2"/>
+  <text x="38" y="43" class="mono" font-size="12" font-weight="700" letter-spacing="1.7" fill="#101113">LIVE ENGINEERING SIGNAL</text>
+  <circle cx="274" cy="39" r="5" fill="#c8ff3d" stroke="#101113" stroke-width="1"/>
+  <text x="962" y="43" class="mono" font-size="10" letter-spacing="1.3" text-anchor="end" fill="#4c4e52">AUTO-REFRESHED / 2026-08-04</text>
+  <path d="M0 63H1000" stroke="#101113" stroke-opacity=".14"/>
+
+  
+  <g transform="translate(38 86)">
+    <rect width="220" height="88" rx="12" fill="#fffef8" stroke="#101113" stroke-opacity=".16"/>
+    <rect width="6" height="88" rx="3" fill="#225cff"/>
+    <text x="24" y="32" class="label">CONTRIBUTIONS / 365D</text>
+    <text x="24" y="67" class="value">581</text>
+  </g>
+  
+  <g transform="translate(273 86)">
+    <rect width="220" height="88" rx="12" fill="#fffef8" stroke="#101113" stroke-opacity=".16"/>
+    <rect width="6" height="88" rx="3" fill="#ff5c35"/>
+    <text x="24" y="32" class="label">ACTIVE DAYS / 365D</text>
+    <text x="24" y="67" class="value">58</text>
+  </g>
+  
+  <g transform="translate(508 86)">
+    <rect width="220" height="88" rx="12" fill="#fffef8" stroke="#101113" stroke-opacity=".16"/>
+    <rect width="6" height="88" rx="3" fill="#c8ff3d"/>
+    <text x="24" y="32" class="label">PRS + REVIEWS / 365D</text>
+    <text x="24" y="67" class="value">13</text>
+  </g>
+  
+  <g transform="translate(743 86)">
+    <rect width="220" height="88" rx="12" fill="#fffef8" stroke="#101113" stroke-opacity=".16"/>
+    <rect width="6" height="88" rx="3" fill="#101113"/>
+    <text x="24" y="32" class="label">PUBLIC REPOSITORIES</text>
+    <text x="24" y="67" class="value">11</text>
+  </g>
+
+  <text x="52" y="217" class="mono" font-size="10" font-weight="700" letter-spacing="1.4" fill="#101113">PUBLIC CODE FOOTPRINT / LANGUAGE BYTES</text>
+  <clipPath id="stackClip"><rect x="52" y="242" width="896" height="18" rx="9"/></clipPath>
+  <g clip-path="url(#stackClip)"><rect x="52.0" y="242" width="317.8" height="18" fill="#3178c6"/><rect x="369.8" y="242" width="316.7" height="18" fill="#3776ab"/><rect x="686.5" y="242" width="215.4" height="18" fill="#da5b0b"/><rect x="901.9" y="242" width="22.6" height="18" fill="#178600"/><rect x="924.6" y="242" width="7.6" height="18" fill="#663399"/><rect x="932.2" y="242" width="15.8" height="18" fill="#e34c26"/></g>
+  
+    <g transform="translate(55 295)">
+      <circle cx="6" cy="-4" r="6" fill="#3178c6"/>
+      <text x="22" y="0" class="lang">TypeScript</text>
+      <text x="250" y="0" class="percent" text-anchor="end">35.5%</text>
+    </g>
+    <g transform="translate(347 295)">
+      <circle cx="6" cy="-4" r="6" fill="#3776ab"/>
+      <text x="22" y="0" class="lang">Python</text>
+      <text x="250" y="0" class="percent" text-anchor="end">35.3%</text>
+    </g>
+    <g transform="translate(639 295)">
+      <circle cx="6" cy="-4" r="6" fill="#da5b0b"/>
+      <text x="22" y="0" class="lang">Jupyter Notebook</text>
+      <text x="250" y="0" class="percent" text-anchor="end">24.0%</text>
+    </g>
+    <g transform="translate(55 333)">
+      <circle cx="6" cy="-4" r="6" fill="#178600"/>
+      <text x="22" y="0" class="lang">C#</text>
+      <text x="250" y="0" class="percent" text-anchor="end">2.5%</text>
+    </g>
+    <g transform="translate(347 333)">
+      <circle cx="6" cy="-4" r="6" fill="#663399"/>
+      <text x="22" y="0" class="lang">CSS</text>
+      <text x="250" y="0" class="percent" text-anchor="end">0.8%</text>
+    </g>
+    <g transform="translate(639 333)">
+      <circle cx="6" cy="-4" r="6" fill="#e34c26"/>
+      <text x="22" y="0" class="lang">HTML</text>
+      <text x="250" y="0" class="percent" text-anchor="end">0.8%</text>
+    </g>
+
+  <path d="M38 371H962" stroke="#101113" stroke-opacity=".14"/>
+  <text x="52" y="405" class="mono" font-size="10" font-weight="700" letter-spacing="1.4" fill="#101113">16-WEEK CONTRIBUTION PULSE</text>
+  <rect x="585" y="400.27941176470586" width="12" height="7.720588235294118" rx="3" fill="#225cff" opacity="0.35"/><rect x="607" y="397.15441176470586" width="12" height="10.845588235294118" rx="3" fill="#225cff" opacity="0.3933333333333333"/><rect x="629" y="403.95588235294116" width="12" height="4.044117647058823" rx="3" fill="#225cff" opacity="0.43666666666666665"/><rect x="651" y="405" width="12" height="3" rx="3" fill="#225cff" opacity="0.48"/><rect x="673" y="405" width="12" height="3" rx="3" fill="#225cff" opacity="0.5233333333333333"/><rect x="695" y="405" width="12" height="3" rx="3" fill="#225cff" opacity="0.5666666666666667"/><rect x="717" y="405" width="12" height="3" rx="3" fill="#225cff" opacity="0.61"/><rect x="739" y="405" width="12" height="3" rx="3" fill="#225cff" opacity="0.6533333333333333"/><rect x="761" y="402.66911764705884" width="12" height="5.330882352941177" rx="3" fill="#225cff" opacity="0.6966666666666667"/><rect x="783" y="358" width="12" height="50" rx="3" fill="#225cff" opacity="0.74"/><rect x="805" y="404.3235294117647" width="12" height="3.6764705882352944" rx="3" fill="#225cff" opacity="0.7833333333333333"/><rect x="827" y="405" width="12" height="3" rx="3" fill="#225cff" opacity="0.8266666666666667"/><rect x="849" y="405" width="12" height="3" rx="3" fill="#225cff" opacity="0.87"/><rect x="871" y="405" width="12" height="3" rx="3" fill="#225cff" opacity="0.9133333333333333"/><rect x="893" y="405" width="12" height="3" rx="3" fill="#225cff" opacity="0.9566666666666667"/><rect x="915" y="405" width="12" height="3" rx="3" fill="#ff5c35" opacity="1"/>
+  <text x="948" y="431" class="mono" font-size="9" text-anchor="end" fill="#4c4e52">OLDER → CURRENT</text>
+</svg>

@@ -33,5 +33,6 @@ jobs:
             echo "Contribution trail is already current."
           else
             git commit -m "chore: refresh contribution trail"
+            git pull --rebase origin main
             git push
           fi

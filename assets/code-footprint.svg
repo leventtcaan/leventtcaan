@@ -12,7 +12,7 @@
   <rect x="1" y="1" width="998" height="448" rx="16" fill="#f2f0e9" stroke="#101113" stroke-opacity=".2"/>
   <text x="38" y="43" class="mono" font-size="12" font-weight="700" letter-spacing="1.7" fill="#101113">LIVE ENGINEERING SIGNAL</text>
   <circle cx="274" cy="39" r="5" fill="#c8ff3d" stroke="#101113" stroke-width="1"/>
-  <text x="962" y="43" class="mono" font-size="10" letter-spacing="1.3" text-anchor="end" fill="#4c4e52">AUTO-REFRESHED / 2026-08-27</text>
+  <text x="962" y="43" class="mono" font-size="10" letter-spacing="1.3" text-anchor="end" fill="#4c4e52">AUTO-REFRESHED / 2026-08-28</text>
   <path d="M0 63H1000" stroke="#101113" stroke-opacity=".14"/>
 
   

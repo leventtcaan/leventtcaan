@@ -12,7 +12,7 @@
   <rect x="1" y="1" width="998" height="448" rx="16" fill="#f2f0e9" stroke="#101113" stroke-opacity=".2"/>
   <text x="38" y="43" class="mono" font-size="12" font-weight="700" letter-spacing="1.7" fill="#101113">LIVE ENGINEERING SIGNAL</text>
   <circle cx="274" cy="39" r="5" fill="#c8ff3d" stroke="#101113" stroke-width="1"/>
-  <text x="962" y="43" class="mono" font-size="10" letter-spacing="1.3" text-anchor="end" fill="#4c4e52">AUTO-REFRESHED / 2026-10-22</text>
+  <text x="962" y="43" class="mono" font-size="10" letter-spacing="1.3" text-anchor="end" fill="#4c4e52">AUTO-REFRESHED / 2026-10-23</text>
   <path d="M0 63H1000" stroke="#101113" stroke-opacity=".14"/>
 
   
@@ -20,14 +20,14 @@
     <rect width="220" height="88" rx="12" fill="#fffef8" stroke="#101113" stroke-opacity=".16"/>
     <rect width="6" height="88" rx="3" fill="#225cff"/>
     <text x="24" y="32" class="label">CONTRIBUTIONS / 365D</text>
-    <text x="24" y="67" class="value">2185</text>
+    <text x="24" y="67" class="value">2189</text>
   </g>
   
   <g transform="translate(273 86)">
     <rect width="220" height="88" rx="12" fill="#fffef8" stroke="#101113" stroke-opacity=".16"/>
     <rect width="6" height="88" rx="3" fill="#ff5c35"/>
     <text x="24" y="32" class="label">ACTIVE DAYS / 365D</text>
-    <text x="24" y="67" class="value">91</text>
+    <text x="24" y="67" class="value">92</text>
   </g>
   
   <g transform="translate(508 86)">
@@ -46,22 +46,22 @@
 
   <text x="52" y="217" class="mono" font-size="10" font-weight="700" letter-spacing="1.4" fill="#101113">PUBLIC CODE FOOTPRINT / LANGUAGE BYTES</text>
   <clipPath id="stackClip"><rect x="52" y="242" width="896" height="18" rx="9"/></clipPath>
-  <g clip-path="url(#stackClip)"><rect x="52.0" y="242" width="402.2" height="18" fill="#3178c6"/><rect x="454.2" y="242" width="279.3" height="18" fill="#e76f00"/><rect x="733.4" y="242" width="101.0" height="18" fill="#3776ab"/><rect x="834.4" y="242" width="61.1" height="18" fill="#da5b0b"/><rect x="895.5" y="242" width="37.0" height="18" fill="#e34c26"/><rect x="932.5" y="242" width="15.5" height="18" fill="#178600"/></g>
+  <g clip-path="url(#stackClip)"><rect x="52.0" y="242" width="401.4" height="18" fill="#3178c6"/><rect x="453.4" y="242" width="278.7" height="18" fill="#e76f00"/><rect x="732.1" y="242" width="102.6" height="18" fill="#3776ab"/><rect x="834.6" y="242" width="61.0" height="18" fill="#da5b0b"/><rect x="895.6" y="242" width="36.9" height="18" fill="#e34c26"/><rect x="932.5" y="242" width="15.5" height="18" fill="#178600"/></g>
   
     <g transform="translate(55 295)">
       <circle cx="6" cy="-4" r="6" fill="#3178c6"/>
       <text x="22" y="0" class="lang">TypeScript</text>
-      <text x="250" y="0" class="percent" text-anchor="end">44.9%</text>
+      <text x="250" y="0" class="percent" text-anchor="end">44.8%</text>
     </g>
     <g transform="translate(347 295)">
       <circle cx="6" cy="-4" r="6" fill="#e76f00"/>
       <text x="22" y="0" class="lang">Java</text>
-      <text x="250" y="0" class="percent" text-anchor="end">31.2%</text>
+      <text x="250" y="0" class="percent" text-anchor="end">31.1%</text>
     </g>
     <g transform="translate(639 295)">
       <circle cx="6" cy="-4" r="6" fill="#3776ab"/>
       <text x="22" y="0" class="lang">Python</text>
-      <text x="250" y="0" class="percent" text-anchor="end">11.3%</text>
+      <text x="250" y="0" class="percent" text-anchor="end">11.4%</text>
     </g>
     <g transform="translate(55 333)">
       <circle cx="6" cy="-4" r="6" fill="#da5b0b"/>

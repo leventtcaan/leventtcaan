@@ -32,7 +32,7 @@
     <td width="33%" valign="top">
       <sub>01 / WORK</sub><br><br>
       <strong>Garanti BBVA Technology</strong><br>
-      Software Engineering Intern in Branch Channel Management, contributing to Mainframe-to-Java modernization.
+      Long-term Software Engineering Intern in Branch Channel Management: React/TypeScript fixes, unit tests and code review.
     </td>
     <td width="33%" valign="top">
       <sub>02 / STUDY</sub><br><br>
